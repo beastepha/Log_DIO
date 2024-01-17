@@ -20,4 +20,3 @@ if (xp <= 1000) {
 }else{
     console.log(`Não entrou em nenhum!`)
 }
-
