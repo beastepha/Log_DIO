@@ -1,3 +1,9 @@
+/*Crie uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador, 
+depois disso retorne o resultado para uma variável, o saldo de rankeadas deve ser feito através 
+do cálculo (vitórias - derrotas)
+O herói tem o saldo (saldoVitorias) está no nível de (nivel)*/
+
+
 rank(70, 8);
 
 function rank(victories, defeats){
